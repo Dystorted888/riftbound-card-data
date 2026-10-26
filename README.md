@@ -1,6 +1,6 @@
 # riftbound-card-data
 
-**Every card. Every printing.**
+**Every card & Every printing.**
 
 Riftbound card data and image mappings from Riot's public English card gallery:
 sets, collector codes, rarities, domains, rules text, stats, artists and printing
