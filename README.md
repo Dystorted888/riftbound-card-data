@@ -8,7 +8,6 @@ variants. Each record points to the image for that specific printing on Riot's C
 
 **Start with [`data/cards.json`](data/cards.json).** It is a ready-to-use snapshot.
 No API key, account or npm dependencies are required to refresh it.
-Prices, marketplace product IDs and personal collection information are excluded.
 
 ## Use the data
 
