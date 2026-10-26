@@ -1,0 +1,9 @@
+{
+  "name": "riftbound-card-data",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Riftbound card data and exact-printing image URLs from Riot's public gallery",
+  "license": "MIT",
+  "engines": { "node": ">=22" },
+  "scripts": { "refresh": "node scripts/refresh.js", "test": "node --test", "example": "node examples/find-card.js" }
+}
